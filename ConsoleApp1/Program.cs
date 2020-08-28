@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!; successful checkin to github");
+            Console.WriteLine("Hello World!; successful checkin to github; testing");
         }
     }
 }
