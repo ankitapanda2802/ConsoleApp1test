@@ -19,5 +19,6 @@ namespace RuleSystem.Tests
             Assert.AreEqual(true, output);
         }
 
+
     }
 }
