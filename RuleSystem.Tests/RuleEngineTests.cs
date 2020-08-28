@@ -18,7 +18,5 @@ namespace RuleSystem.Tests
             bool output = RuleEngine.RuleEngine.ValidatePaymentType(input);
             Assert.AreEqual(true, output);
         }
-
-
     }
 }
